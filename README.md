@@ -7,7 +7,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ```bash
 yarn
 ```
-docs/Recipes
+
 ## Local Development
 
 ```bash

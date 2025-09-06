@@ -7,7 +7,9 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ```bash
 yarn
 ```
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/Quickwit_Inc?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/Quickwit_Inc)
+[Twitter Follow](https://aidanng19.github.io/my-website/docs/Recipes)
+[Recipes](https://aidanng19.github.io/my-website/docs/Recipes/Siu_Yuk.md)
 ## Local Development
 
 ```bash

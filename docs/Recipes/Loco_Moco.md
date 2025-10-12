@@ -17,7 +17,7 @@ Black Pepper\
 White Pepper
 
 # Wet Seasonings
-Soy sauce\
+Soy sauce
 
 ## Instructions
 1. Melt the butter on the skillet.
